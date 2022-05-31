@@ -1,9 +1,8 @@
 # Work Day Scheduler Starter Code
-<<<<<<< HEAD
 # daily-scheduler
 <!-- # project name -->
 
-![Project Image]()
+![Image](daily-scheduler/assets/images/Work Day Scheduler (1).gif)
 
 ---
 
@@ -80,5 +79,3 @@ https://philemonkirlles.github.io/???/
 ## Contribution
 Philemon
 
-=======
->>>>>>> b68e91f12122c46bfc24cdaa1c6aa332149adbec
