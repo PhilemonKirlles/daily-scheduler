@@ -2,8 +2,7 @@
 # daily-scheduler
 <!-- # project name -->
 
-![project image](srdaily-scheduler/assets/images/Work%20Day%20Scheduler%20(1).gif)
-
+![project image](/PhilemonKirlles/daily-scheduler/blob/main/assets/images/Work%20Day%20Scheduler%20(1).gif?raw=true)
 ---
 
 ## Table of Contents
