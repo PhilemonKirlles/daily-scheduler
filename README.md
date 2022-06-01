@@ -2,7 +2,10 @@
 # daily-scheduler
 <!-- # project name -->
 
-![project image](/PhilemonKirlles/daily-scheduler/blob/main/assets/images/Work%20Day%20Scheduler%20(1).gif?raw=true)
+![project image](https://github.com/PhilemonKirlles/daily-scheduler/blob/3592a8a79bfee5d1a0824767f21338c60554a5f8/assets/images/Work%20Day%20Scheduler%20(1).gif
+)
+
+
 ---
 
 ## Table of Contents
