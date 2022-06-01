@@ -1,7 +1,7 @@
 # Work Day Scheduler Starter Code
 # daily-scheduler
 <!-- # project name -->
-<img> src="daily-scheduler/assets/images/Work%20Day%20Scheduler%20(1).gif" width="100%"</img>
+
 ![project image](srdaily-scheduler/assets/images/Work%20Day%20Scheduler%20(1).gif)
 
 ---
